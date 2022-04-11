@@ -1,0 +1,22 @@
+.tab {
+    background-color: white;
+    margin: auto;
+}
+.tab a {
+    background-color: inherit;
+    margin: auto;
+    padding: 16px;
+    transition: 0.2s;
+    font-size: 20px;
+    justify-content: center;
+}
+.tab a:hover {
+    color: red;
+    background-color: aliceblue;
+}
+.tcon {
+    display: none;
+    padding: 8px 14px;
+    border: 1px solid blueviolet;
+    border-top: none;
+}
